@@ -27,6 +27,6 @@ I’m a **graduate student in Computer Science** and an **AWS Certified Solution
 ## **Contact Me**  
 📧 **Email:** [Email](mailto:ezekiel.bagel951@passinbox.com)  
 💼 **LinkedIn:** [[Ezekiel]  ](https://www.linkedin.com/in/ayotomiwa-adeniyi/)
-🐙 **Website:** [[Ezekiel](ayotomiwa.me)]  
+🐙 **Website:** [[Ezekiel](https://ayotomiwa.me)]  
 
 ---
