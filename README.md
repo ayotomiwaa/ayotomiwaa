@@ -3,17 +3,11 @@
 ---
 
 ## **About Me**  
-I’m a **graduate student in Computer Science** and an **AWS Certified Solutions Architect** with a passion for building scalable, efficient systems in the cloud. When I’m not architecting solutions or diving into AI/ML, I’m mentoring others or exploring new tech trends.  
+I’m a **graduate student in Computer Science** and an **AWS Certified Solutions Architect** with a passion for building scalable, efficient systems in the cloud. 
 
 ---
 
 ## **My Tech Stack**  
-
-### **OS**  
-`Windows 10` | `Android 14` | `Linux`  
-
-### **IDE**  
-`VSCode 1.96.0`  
 
 ### **Languages**  
 - **Programming:** `Python` | `JavaScript` | `R`  
@@ -31,10 +25,8 @@ I’m a **graduate student in Computer Science** and an **AWS Certified Solution
 ---
 
 ## **Contact Me**  
-📧 **Email:** [ezekielaadeniyi@gmail.com](mailto:ezekielaadeniyi@gmail.com)  
+📧 **Email:** [Email](mailto:ezekiel.bagel951@passinbox.com)  
 💼 **LinkedIn:** [[Ezekiel]  ](https://www.linkedin.com/in/ayotomiwa-adeniyi/)
-🐙 **GitHub:** [[Ezekiel](https://github.com/ayotomiwaa)]  
+🐙 **Website:** [[Ezekiel](ayotomiwa.me)]  
 
 ---
-
-### **Let’s Build Something Amazing Together!** 🚀  
